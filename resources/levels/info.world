@@ -1,0 +1,14 @@
+BLOCK NUMBERS (you can modify block values in the data.json file):
+- Air block: 0 (an empty block)
+- Grass block: 1 (a block of grass)
+- Dirt block: 2 (a block of dirt)
+- Stone block: 3 (a block of stone)
+- Start block: 4 (the spawn location for the Player)
+- End block: 5 (the end flag)
+- Ennemy block: 6 (spawn location for an Ennemy)
+
+A world is stored in a file named [level_number].world
+/!\ You can't skip a level number, and have a 8.world file without a 7.world file for example /!\
+
+In a .world file, each number correponds to a block,
+and the position of the number correponds to the position of the block.
