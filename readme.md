@@ -15,4 +15,8 @@ All the variables used in the game such as gravity are stored in the \[data.json
 All the levels are stored in the \[levels\] folder,
 all the informations you need to create a level are in the info.world file !
 
+## PLAYING THE GAME
+If you're on Windows, a executable file can be found in the \[TheOeufGame\] folder,
+just double click on the \[TheOeufGame.exe\] file to launch the game !
+
 # UwU
