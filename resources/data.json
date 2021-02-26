@@ -1,8 +1,8 @@
 {
     "demolevel_complete": false,
-    "fullscreen": true,
-    "level_number": 5,
-    "resolution": "1366x768",
+    "fullscreen": false,
+    "level_number": 1,
+    "resolution": "1280x720",
     "variables": {
         "COLOR_BLACK": {
             "b": 0,

@@ -1,0 +1,57 @@
+{
+    "demolevel_complete": false,
+    "fullscreen": false,
+    "level_number": 1,
+    "resolution": "1280x720",
+    "variables": {
+        "COLOR_BLACK": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "COLOR_DIRT": {
+            "b": 20,
+            "g": 65,
+            "r": 170
+        },
+        "COLOR_GRASS": {
+            "b": 20,
+            "g": 180,
+            "r": 20
+        },
+        "COLOR_GREY": {
+            "b": 128,
+            "g": 128,
+            "r": 128
+        },
+        "COLOR_SKY": {
+            "b": 150,
+            "g": 105,
+            "r": 15
+        },
+        "COLOR_STONE": {
+            "b": 120,
+            "g": 130,
+            "r": 140
+        },
+        "COLOR_TRANSPARENT": {
+            "b": 150,
+            "g": 105,
+            "r": 15
+        },
+        "COLOR_WHITE": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "GRAVITY": 1.7,
+        "JUMP_FORCE": 0.38,
+        "WORLD_AIR": 0,
+        "WORLD_DIRT": 2,
+        "WORLD_END": 5,
+        "WORLD_ENNEMY": 6,
+        "WORLD_GRASS": 1,
+        "WORLD_START": 4,
+        "WORLD_STONE": 3
+    }
+}
