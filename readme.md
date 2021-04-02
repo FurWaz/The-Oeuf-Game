@@ -5,6 +5,7 @@ The oeuf game is a completely fucked up platformer game with Oeuf as the main ch
 ## DEPENDENCIES
 Here are the dependencies used to get the game running:
 - [Pygame](https://www.pygame.org/news)
+
 All the required dependencies are automaticaly installed by the game ! (>ᴗ<)
 
 ## ABOUT THE GAME
